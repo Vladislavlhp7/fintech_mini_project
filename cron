@@ -1,0 +1,1 @@
+0 17 31 * * cd ~/Projects/fintech_mini_project && chmod +x run_signal.sh && sh run_signal.sh >> ~/Projects/fintech_mini_project/logs/cron.log 2>&1

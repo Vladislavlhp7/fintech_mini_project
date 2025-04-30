@@ -135,6 +135,16 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+*.ipynb_checkpoints
+*.ipynb
+*.csv
+*.pdf
+*.docx
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+*.gif
 
 # Spyder project settings
 .spyderproject
